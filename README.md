@@ -5,8 +5,8 @@ Code, filtered data and supplementary tables for my BMedSci (Honours) Bioinforma
 **Project title:** Survival-Associated Transcriptomic Signatures in Glioblastoma: Differential Expression Analysis and Alignment with Established Molecular Subtypes
 
 **Author:** Njabulo Dlomo
-**Supervisor:** Dr Hocine Bendou
-**Co-supervisor:** Dr Michelle Livesey
+**Supervisor:** Dr. Hocine Bendou
+**Co-supervisor:** Dr. Michelle Livesey
 
 ## Overview
 
